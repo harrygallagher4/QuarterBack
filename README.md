@@ -1,6 +1,8 @@
 # QuarterBack
 
-Built using the Foundation Compass Template.
+## About
+
+This project is a presentation site for an app concept project I did in my high school marketing class. I was pretty inexperienced at web development at the time, but it still stole the show.
 
 ## Requirements
 
